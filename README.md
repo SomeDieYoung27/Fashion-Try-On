@@ -12,7 +12,6 @@
   - [Block Diagram](#block-diagram)
   - [Methodology](#methodology)
   - [Usage](#usage)
-  - [Citation](#citation)
 
 ## General info
 
